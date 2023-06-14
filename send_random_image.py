@@ -2,7 +2,7 @@ import requests  # Импортируем библиотеку для работ
 
 from telegram import Bot
 
-bot = Bot(token='5609186344:AAH3Kd8qQMhGZ3eoViLmsNSwWinhrLgC5cU')
+bot = Bot(token='')
 # Адрес API сохраним в константе
 URL = 'https://api.thecatapi.com/v1/images/search'  
 # Сделаем GET-запрос к API
