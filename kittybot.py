@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-secret_token = os.getenv('5609186344:AAH3Kd8qQMhGZ3eoViLmsNSwWinhrLgC5cU')
+secret_token = os.getenv('')
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
